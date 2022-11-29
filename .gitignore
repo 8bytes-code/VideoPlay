@@ -1,0 +1,8 @@
+*.mp4
+*.user
+Debug
+.vs
+*.uml
+/VideoPlay/VideoClient/plugins
+*.h264
+*.bin
